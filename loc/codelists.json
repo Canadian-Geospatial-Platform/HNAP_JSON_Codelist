@@ -28,7 +28,7 @@
                     "label_en": "Not Available",
                     "description_en": "Not Available",
                     "label_fr": "Non Disponible",
-                    "description_fr": "Not Available"
+                    "description_fr": "Non Disponible"
                 }, {
                     "code": "RI_370",
                     "value": "inForce; enVigueur",
@@ -65,57 +65,79 @@
                     "code": "RI_375",
                     "value": "download; téléchargement",
                     "label_en": "Download",
-                    "description_en": "Online instructions for transferring data from one storage device or system to another"
+                    "description_en": "Online instructions for transferring data from one storage device or system to another",
+                    "label_fr": "Téléchargement",
+                    "description_fr": "Téléchargement de la ressource"
                 }, {
                     "code": "RI_376",
                     "value": "information; information",
                     "label_en": "Information",
-                    "description_en": "Online information about the resource"
+                    "description_en": "Online information about the resource",
+                    "label_fr": "Information",
+                    "description_fr": "Informations en ligne sur la ressource"
                 }, {
                     "code": "RI_377",
                     "value": "offlineAccess; accèsHorsLigne",
                     "label_en": "Offline access",
-                    "description_en": "Online instructions for requesting the resource from the\n\t\t\tprovider"
+                    "description_en": "Online instructions for requesting the resource from the provider",
+                    "label_fr": "Accès Hors Ligne",
+                    "description_fr": "Instruction pour une commande auprès du distributeur"
                 }, {
                     "code": "RI_378",
                     "value": "order; commande",
                     "label_en": "Order",
-                    "description_en": "Online order process for obtening the resource"
+                    "description_en": "Online order process for obtening the resource",
+                    "label_fr": "Commande",
+                    "description_fr": "Commande en ligne pour obtenir la ressource"					
                 }, {
                     "code": "RI_379",
                     "value": "search; recherche",
                     "label_en": "Search",
-                    "description_en": "Online search interface for seeking out information about the\n\t\t\tresource"
+                    "description_en": "Online search interface for seeking out information about the resource",
+                    "label_fr": "Recherche",
+                    "description_fr": "Interface de recherche pour trouver la ressource"					
                 }, {
                     "code": "RI_380",
                     "value": "upload; téléversement",
                     "label_en": "Upload",
-                    "description_en": "Online instructions for transfering data or file from a local storage device or system to another (e.g. mainframe or remote computer) via network"
+                    "description_en": "Online instructions for transfering data or file from a local storage device or system to another (e.g. mainframe or remote computer) via network",
+                    "label_fr": "Téléversement",
+                    "description_fr": "Instructions en ligne pour le transfert de données ou de fichiers d'un périphérique de stockage local ou d'un système à un autre (par exemple, ordinateur central ou ordinateur distant) via le réseau"					
                 }, {
                     "code": "RI_381",
                     "value": "webService; serviceWeb",
                     "label_en": "Web Service",
-                    "description_en": "Online instructions for the connection to a Web service (e.g. Web Services description_en Language file) providing an on-line geographic service other than a Web map service"
+                    "description_en": "Online instructions for the connection to a Web service (e.g. Web Services description_en Language file) providing an on-line geographic service other than a Web map service",
+                    "label_fr": "Service Web",
+                    "description_fr": "Instructions en ligne pour la connexion à un service Web (ex. Web Services description_fr Fichier de langue) fournissant un service géographique en ligne autre qu'un service de carte Web"					
                 }, {
                     "code": "RI_382",
                     "value": "emailService; serviceCourriel",
                     "label_en": "Email Service",
-                    "description_en": "Online instructions for the connection to an email service providing geographic services from emails"
+                    "description_en": "Online instructions for the connection to an email service providing geographic services from emails",
+                    "label_fr": "Service Courriel",
+                    "description_fr": "Instructions en ligne pour la connexion à un service de messagerie fournissant des services géographiques à partir de courriers électroniques"					
                 }, {
                     "code": "RI_383",
                     "value": "browsing; furetage",
                     "label_en": "Browsing",
-                    "description_en": "Online interface for exploring and seeking information about the resource from a Web browser"
+                    "description_en": "Online interface for exploring and seeking information about the resource from a Web browser",
+                    "label_fr": "Furetage",
+                    "description_fr": "Interface en ligne pour explorer et rechercher des informations sur la ressource à partir d'un navigateur Web"					
                 }, {
                     "code": "RI_384",
                     "value": "fileAccess; AccèsFichier",
                     "label_en": "File Access",
-                    "description_en": "Direct retrieval of a file from a remote system, typically through the use of http or ftp protocol (or their secure variants)"
+                    "description_en": "Direct retrieval of a file from a remote system, typically through the use of http or ftp protocol (or their secure variants)",
+                    "label_fr": "Accès Fichier",
+                    "description_fr": "Récupération directe d'un fichier à partir d'un système distant, généralement via l'utilisation du protocole http ou ftp (ou leurs variantes sécurisées)"					
                 }, {
                     "code": "RI_385",
                     "value": "webMapService; ServiceCartesWeb",
                     "label_en": "Web Map Service",
-                    "description_en": "Online instructions for the connection to a Web -based map request service, which may return custom georeferenced map images, streamed features, raster data, or surface data to a mapping client"
+                    "description_en": "Online instructions for the connection to a Web -based map request service, which may return custom georeferenced map images, streamed features, raster data, or surface data to a mapping client",
+					"label_fr": "Service Cartes Web",
+                    "description_fr": "Instructions en ligne pour la connexion à un service de demande de carte basé sur le Web, qui peut renvoyer des images cartographiques géoréférencées personnalisées, des entités diffusées en continu, des données raster ou des données de surface à un client de cartographie"					
                 }
             ]
         }, {
@@ -124,57 +146,79 @@
                     "code": "RI_387",
                     "value": "documentDigital; documentNumérique",
                     "label_en": "Digital document",
-                    "description_en": "Digital representation of a primarily textual item (can contain illustrations also)"
+                    "description_en": "Digital representation of a primarily textual item (can contain illustrations also)",
+                    "label_fr": "Document numérique",
+                    "description_fr": "Document numérique contenant du texte et pouvant contenir des illustrations"
                 }, {
                     "code": "RI_389",
                     "value": "imageDigital; imageNumérique",
                     "label_en": "Digital image",
-                    "description_en": "Likeness of natural or man-made features, objects, and activities acquired through the sensing of visual or any other segment of the electromagnetic spectrum by sensors, such as thermal infrared, and high resolution radar and stored in digital format"
+                    "description_en": "Likeness of natural or man-made features, objects, and activities acquired through the sensing of visual or any other segment of the electromagnetic spectrum by sensors, such as thermal infrared, and high resolution radar and stored in digital format",
+                    "label_fr": "Image numérique",
+                    "description_fr": "Aspects à travers la télédétection, stocké sous format numérique"				
                 }, {
                     "code": "RI_388",
                     "value": "documentHardcopy; documentPapier",
                     "label_en": "Hardcopy document",
-                    "description_en": "Representation of a primarily textual item (can contain illustrations also) on paper, photograhic material, or other media"
+                    "description_en": "Representation of a primarily textual item (can contain illustrations also) on paper, photograhic material, or other media",
+					"label_fr": "Document papier",
+                    "description_fr": "Document papier contenant du texte et pouvant contenir des illustrations"
                 }, {
                     "code": "RI_390",
                     "value": "imageHardcopy; imagePapier",
                     "label_en": "Hardcopy image",
-                    "description_en": "Likeness of natural or man-made features, objects, and activities acquired through the sensing of visual or any other segment of the electromagnetic spectrum by sensors, such as thermal infrared, and high resolution radar and reproduced on paper, photographic material, or other media for use directly by the human user"
+                    "description_en": "Likeness of natural or man-made features, objects, and activities acquired through the sensing of visual or any other segment of the electromagnetic spectrum by sensors, such as thermal infrared, and high resolution radar and reproduced on paper, photographic material, or other media for use directly by the human user",
+					"label_fr": "Image papier",
+                    "description_fr": "Aspects à travers la télédétection, reproduit sur un support utilisable par l’homme"					
                 }, {
                     "code": "RI_391",
                     "value": "mapDigital;carteNumérique",
                     "label_en": "Digital map",
-                    "description_en": "Map represented in raster or vector form"
+                    "description_en": "Map represented in raster or vector form",
+					"label_fr": "Carte numérique",
+                    "description_fr": "Carte numérique au format raster ou vecteur"
                 }, {
                     "code": "RI_392",
                     "value": "mapHardcopy; cartePapier",
                     "label_en": "Hardcopy map",
-                    "description_en": "Map printed on paper, photographic material, or other media for use directly by the human user"
+                    "description_en": "Map printed on paper, photographic material, or other media for use directly by the human user",
+					"label_fr": "Carte papier",
+                    "description_fr": "Carte imprimée sur papier ou autre support utilisable par l’homme"
                 }, {
                     "code": "RI_393",
                     "value": "modelDigital; modèleNumérique",
                     "label_en": "Digital model",
-                    "description_en": "Multi-dimensional digital representation of a feature, process,\n\t\t\tetc."
+                    "description_en": "Multi-dimensional digital representation of a feature, process, etc.",
+                    "label_fr": "Modèle numérique",
+                    "description_fr": "Modèle numérique 3D sous forme digitale"					
                 }, {
                     "code": "RI_394",
                     "value": "modelHardcopy; maquette",
                     "label_en": "Hardcopy model",
-                    "description_en": "3-dimensional, physical model"
+                    "description_en": "3-dimensional, physical model",
+                    "label_fr": "Maquette",
+                    "description_fr": "Modèle numérique 3D physique"					
                 }, {
                     "code": "RI_395",
                     "value": "profileDigital; profilNumérique",
                     "label_en": "Digital profile",
-                    "description_en": "Vertical cross-section in digital form"
+                    "description_en": "Vertical cross-section in digital form",
+                    "label_fr": "Profil numérique",
+                    "description_fr": "Profil vertical sous forme numérique"					
                 }, {
                     "code": "RI_396",
                     "value": "profileHardcopy; profilPapier",
                     "label_en": "Hardcopy profile",
-                    "description_en": "Vertical cross-section printed on paper, etc."
+                    "description_en": "Vertical cross-section printed on paper, etc.",
+                    "label_fr": "Profil papier",
+                    "description_fr": "Profil vertical sous forme papier"					
                 }, {
                     "code": "RI_397",
                     "value": "tableDigital; tableNumérique",
                     "label_en": "Digital table",
-                    "description_en": "Digital representation of facts or figures systematically displayed, especially in columns"
+                    "description_en": "Digital representation of facts or figures systematically displayed, especially in columns",
+                    "label_fr": "Table numérique",
+                    "description_fr": "Représentation numérique d’informations sous forme de colonnes"					
                 }, {
                     "code": "RI_398",
                     "value": "tableHardcopy; tablePapier",
@@ -184,42 +228,58 @@
                     "code": "RI_399",
                     "value": "videoDigital; vidéoNumérique",
                     "label_en": "Digital video",
-                    "description_en": "Digital video recording"
+                    "description_en": "Digital video recording",
+                    "label_fr": "Vidéo numérique",
+                    "description_fr": "Vidéo numérique"					
                 }, {
                     "code": "RI_400",
                     "value": "videoHardcopy; vidéoFilm",
                     "label_en": "Hardcopy video",
-                    "description_en": "Video recording on film"
+                    "description_en": "Video recording on film",
+                    "label_fr": "Vidéo magnétique",
+                    "description_fr": "Vidéo enregistré sur bande"					
                 }, {
                     "code": "RI_401",
                     "value": "audioDigital; audioNumérique",
                     "label_en": "Audio Digital",
-                    "description_en": ""
+                    "description_en": "",
+                    "label_fr": "Audio Numérique",
+                    "description_fr": ""					
                 }, {
                     "code": "RI_402",
                     "value": "audioHardcopy; audioAnalogique",
                     "label_en": "Audio Hardcopy",
-                    "description_en": ""
+                    "description_en": "",
+                    "label_fr": "Audio Analogique",
+                    "description_fr": ""					
                 }, {
                     "code": "RI_403",
                     "value": "multimediaDigital; multimédiaNumérique",
                     "label_en": "Multimedia Digital",
-                    "description_en": ""
+                    "description_en": "",
+                    "label_fr": "Multimédia Numérique",
+                    "description_fr": ""			
                 }, {
                     "code": "RI_404",
                     "value": "multimediaHardcopy; multimédiaAnalogique",
                     "label_en": "Multimedia Hardcopy",
-                    "description_en": ""
+                    "description_en": "",
+                    "label_fr": "Multimédia Analogique",
+                    "description_fr": ""			
                 }, {
                     "code": "RI_405",
                     "value": "diagramDigital; diagrammeNumérique",
                     "label_en": "Diagram Digital",
-                    "description_en": ""
+                    "description_en": "",
+                    "label_fr": "Diagramme Numérique",
+                    "description_fr": ""					
                 }, {
                     "code": "RI_406",
                     "value": "diagramHardcopy; diagrammePapier",
                     "label_en": "Diagram Hardcopy",
-                    "description_en": ""
+                    "description_en": "",
+                    "label_fr": "Diagramme Papier",
+                    "description_fr": ""					
                 }
             ]
         }, {
@@ -228,77 +288,107 @@
                     "code": "RI_408",
                     "value": "resourceProvider; fournisseurRessource",
                     "label_en": "Resource provider",
-                    "description_en": "Party that supplies the resource"
+                    "description_en": "Party that supplies the resource",
+                    "label_fr": "Fournisseur Ressource",
+                    "description_fr": "Organisme qui fournit la ressource. Acteur qui délivre physiquement la ressource, soit de manière directe au destinataire, soit par l’intermédiaire d’un diffuseur"					
                 }, {
                     "code": "RI_409",
                     "value": "custodian; conservateur",
                     "label_en": "Custodian",
-                    "description_en": "Party that accepts accountability and responsability for the data and ensures appropriate care and maintenance of the resource"
+                    "description_en": "Party that accepts accountability and responsability for the data and ensures appropriate care and maintenance of the resource",
+                    "label_fr": "Conservateur",
+                    "description_fr": "Acteur responsable de la gestion et de la mise à jour de la ressource"					
                 }, {
                     "code": "RI_410",
                     "value": "owner; propriétaire",
                     "label_en": "Owner",
-                    "description_en": "Party that owns the resource"
+                    "description_en": "Party that owns the resource",
+                    "label_fr": "Propriétaire",
+                    "description_fr": "Organisme qui est propriétaire de la ressource / Acteur qui détient les droits patrimoniaux de la ressource"					
                 }, {
                     "code": "RI_411",
                     "value": "user; utilisateur",
                     "label_en": "User",
-                    "description_en": "Party who uses the resource"
+                    "description_en": "Party who uses the resource",
+                    "label_fr": "Utilisateur",
+                    "description_fr": "Organisme qui utilise ou a utilisé la ressource"					
                 }, {
                     "code": "RI_412",
                     "value": "distributor; distributeur",
                     "label_en": "Distributor",
-                    "description_en": "Party who distributes the resource"
+                    "description_en": "Party who distributes the resource",
+                    "label_fr": "Distributeur",
+                    "description_fr": "Organisme qui distribue la ressource. Diffuseur de second niveau de la ressource"					
                 }, {
                     "code": "RI_413",
                     "value": "originator; auteur",
                     "label_en": "Originator",
-                    "description_en": "Party who created the resource"
+                    "description_en": "Party who created the resource",
+                    "label_fr": "Créateur",
+                    "description_fr": "Organisme qui  a commandé la ressource. Acteur qui a été habilité à créer la ressource et qui a mis en place les moyens pour la constituer"					
                 }, {
                     "code": "RI_414",
                     "value": "pointOfContact; contact",
                     "label_en": "Point of contact",
-                    "description_en": "Party who can be contacted for acquiring knowledge about or acquisition of the resource"
+                    "description_en": "Party who can be contacted for acquiring knowledge about or acquisition of the resource",
+                    "label_fr": "Contact",
+                    "description_fr": "Organisme que l’on peut contacter pour avoir des renseignements détaillés sur la ressource. Acteur à contacter en premier lieu pour obtenir des informations relatives à la ressource"					
                 }, {
                     "code": "RI_415",
                     "value": "principalInvestigator; chercheurPrincipal",
                     "label_en": "Principal investigator",
-                    "description_en": "Key party responsible for gathering information and conducting\n\t\t\tresearch"
+                    "description_en": "Key party responsible for gathering information and conducting research",
+                    "label_fr": "Chercheur Principal",
+                    "description_fr": "Personne clé pour obtenir des informations sur la ressource et les recherches conduites autour de la ressource\nActeur qui a assuré la réalisation de la ressource,éventuellement en faisant appel à des co-traitants ou des sous traitants"					
                 }, {
                     "code": "RI_416",
                     "value": "processor; traiteur",
                     "label_en": "Processor",
-                    "description_en": "Party wha has processed the data in a manner such that the resource has been modified"
+                    "description_en": "Party wha has processed the data in a manner such that the resource has been modified",
+                    "label_fr": "Traiteur",
+                    "description_fr": "Organisme qui a réalisé des traitements sur la ressource. Acteur qui est intervenu lors de la réalisation de la ressource"					
                 }, {
                     "code": "RI_417",
                     "value": "publisher; éditeur",
                     "label_en": "Publisher",
-                    "description_en": "Party who published the resource"
+                    "description_en": "Party who published the resource",
+                    "label_fr": "Éditeur",
+                    "description_fr": "Organisme qui assure la publication de la ressource."					
                 }, {
                     "code": "RI_418",
                     "value": "author; auteur",
                     "label_en": "Author",
-                    "description_en": "Party who authored the resource"
+                    "description_en": "Party who authored the resource",
+                    "label_fr": "Auteur",
+                    "description_fr": "Organisme  ou personne qui est auteur. Acteur qui dispose des droits moraux relatifs à la ressource"					
                 }, {
                     "code": "RI_419",
                     "value": "collaborator; collaborateur",
                     "label_en": "Collaborator",
-                    "description_en": "Collaborator"
+                    "description_en": "Collaborator",
+                    "label_fr": "Collaborateur",
+                    "description_fr": "Collaborateur"					
                 }, {
                     "code": "RI_420",
                     "value": "editor; réviseur",
                     "label_en": "Editor",
-                    "description_en": "Editor"
+                    "description_en": "Editor",
+                    "label_fr": "Réviseur",
+                    "description_fr": "Réviseur"					
                 }, {
                     "code": "RI_421",
                     "value": "mediator; médiateur",
                     "label_en": "Mediator",
-                    "description_en": "Mediator"
+                    "description_en": "Mediator",
+                    "label_fr": "Médiateur",
+                    "description_fr": "Médiateur"					
                 }, {
                     "code": "RI_422",
                     "value": "rightsHolder; détenteurDroits",
                     "label_en": "Rights Holder",
-                    "description_en": "Rights Holder"
+                    "description_en": "Rights Holder",
+                    "label_fr": "Détenteur Droits",
+                    "description_fr": "Détenteur Droits"					
                 }
             ]
         }, {
@@ -307,17 +397,23 @@
                     "code": "RI_424",
                     "value": "directInternal; interneDirecte",
                     "label_en": "Direct internal",
-                    "description_en": "Method of evaluating the quality of a dataset based on inspection of items within the dataset, where all data required is internal to the dataset being\n\t\t\tevaluated"
+                    "description_en": "Method of evaluating the quality of a dataset based on inspection of items within the dataset, where all data required is internal to the dataset being evaluated",
+                    "label_fr": "Interne Directe",
+                    "description_fr": "Méthode d’évaluation de la qualité d’un jeu de données basée sur l’analyse des données du jeu où toutes les données requises sont internes au jeu de données"					
                 }, {
                     "code": "RI_425",
                     "value": "directExternal; externeDirecte",
                     "label_en": "Direct external",
-                    "description_en": "Method of evaluating the quality of a dataset based on inspection of items within the dataset, where reference data external to the dataset being evaluated is required"
+                    "description_en": "Method of evaluating the quality of a dataset based on inspection of items within the dataset, where reference data external to the dataset being evaluated is required",
+                    "label_fr": "Externe Directe",
+                    "description_fr": "Méthode d’évaluation de la qualité d’un jeu de données basée sur l’analyse des données du jeu où les références vers des données externes sont requises."					
                 }, {
                     "code": "RI_426",
                     "value": "indirect; indirecte",
                     "label_en": "Indirect",
-                    "description_en": "Method of evaluating the quality of a dataset based on external\n\t\t\tknowledge"
+                    "description_en": "Method of evaluating the quality of a dataset based on external knowledge",
+                    "label_fr": "Indirecte",
+                    "description_fr": "Méthode d’évaluation de la qualité basée sur une connaissance externe."					
                 }
             ]
         }, {
@@ -326,32 +422,44 @@
                     "code": "RI_428",
                     "value": "crossReference; référenceCroisée",
                     "label_en": "Cross reference",
-                    "description_en": "Reference from one dataset to another"
+                    "description_en": "Reference from one dataset to another",
+                    "label_fr": "Référence croisée",
+                    "description_fr": "Référence d’un jeu de données à un autre"					
                 }, {
                     "code": "RI_429",
                     "value": "largerWorkCitation; référenceGénérique",
                     "label_en": "Larger work citation",
-                    "description_en": "Reference to a master dataset of which this one is a part"
+                    "description_en": "Reference to a master dataset of which this one is a part",
+                    "label_fr": "Référence générique",
+                    "description_fr": "Référence à un jeu de données maître"					
                 }, {
                     "code": "RI_430",
                     "value": "partOfSeamlessDatabase; partieDeBaseDeDonnéesContinue",
                     "label_en": "Part of seamless database",
-                    "description_en": "Part of the same structured set of data held in a computer"
+                    "description_en": "Part of the same structured set of data held in a computer",
+                    "label_fr": "Partie de base de données continue",
+                    "description_fr": "Référence à un jeu de données stocké dans une même base de données"					
                 }, {
                     "code": "RI_431",
                     "value": "source; source",
                     "label_en": "Source",
-                    "description_en": "Mapping and charting information from which the dataset content\n\t\t\toriginates"
+                    "description_en": "Mapping and charting information from which the dataset content originates",
+                    "label_fr": "Source",
+                    "description_fr": "Références vers la source des données qui a permis de produire les cartes"					
                 }, {
                     "code": "RI_432",
                     "value": "stereoMate; stéréoAssociée",
                     "label_en": "Stereo mate",
-                    "description_en": "Part of a set of imagery that when used together, provides three-dimensional images"
+                    "description_en": "Part of a set of imagery that when used together, provides three-dimensional images",
+                    "label_fr": "Stéréo associée",
+                    "description_fr": "Partie d’un ensemble d’images qui, utilisé ensemble, fournit une vision 3D de l’image"					
                 }, {
                     "code": "RI_433",
                     "value": "isComposedOf; estComposéDe",
                     "label_en": "Is Composed Of",
-                    "description_en": "Reference to datasets that are parts of this data set"
+                    "description_en": "Reference to datasets that are parts of this data set",
+                    "label_fr": "Est composé de",
+                    "description_fr": "Référence aux ensembles de données qui font partie de cet ensemble de données"					
                 }
             ]
         }, {
